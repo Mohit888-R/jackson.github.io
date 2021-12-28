@@ -37,4 +37,12 @@ There are 8 nav tabs for cv web.
     iii. with hover-2
         ![portfoliio2](https://user-images.githubusercontent.com/76577184/147528927-1f092228-f332-4ef2-8c7e-21b1cc595a6a.png)
 
-        
+7. Testimonial
+     
+     ![testimonial](https://user-images.githubusercontent.com/76577184/147529026-6cf47131-e158-4f9b-b03f-8c7d51163d83.png)
+
+
+8. Contact 
+ 
+      ![contact](https://user-images.githubusercontent.com/76577184/147529105-f919c34b-9bac-4b26-93dc-c979a67d5473.png)
+
