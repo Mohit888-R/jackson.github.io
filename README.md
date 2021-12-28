@@ -8,6 +8,12 @@ There are 8 nav tabs for cv web.
 
          2. Skills
 
+         
+         ![skills](https://user-images.githubusercontent.com/76577184/147527974-3cc23229-88e8-42fe-aab5-584e7e2e9901.png)
+
 
 Uploading 2021-12-28 09-43-16_Trim.gif.mp4…
 
+          3. Services 
+          
+          ![services](https://user-images.githubusercontent.com/76577184/147527887-f179fa74-da99-478e-9be0-3937d21a9685.png)
